@@ -1,2 +1,4 @@
 # security-header-checker-ff
-Security Header Analyzer Extension for Firefox
+
+
+This is a quick extension I made to check security header content.
